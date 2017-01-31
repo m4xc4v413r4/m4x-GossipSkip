@@ -1,0 +1,7 @@
+## Interface: 70100
+## Title: m4x GossipSkip
+## Notes: Skip all the Gossip
+## Author: m4xc4v413r4
+## Version: v0.8
+
+m4x-GossipSkip.lua
