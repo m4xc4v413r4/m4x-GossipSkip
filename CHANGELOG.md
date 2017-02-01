@@ -1,4 +1,8 @@
 # Change Log
+## v0.8.3 - 2017-02-01
+### Fixed
+- Updated multiple files to fix Packaging (again)
+
 ## v0.8.2 - 2017-01-31
 ### Fixed
 - Updated multiple files to fix Packaging
