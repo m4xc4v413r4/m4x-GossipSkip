@@ -1,6 +1,6 @@
-## Interface: 70100
+## Interface: 70200
 ## Title: m4x GossipSkip
-## Notes: Skip all the Gossip
+## Notes: Skip all the Gossips
 ## Author: m4xc4v413r4
 ## Version: @project-version@
 
