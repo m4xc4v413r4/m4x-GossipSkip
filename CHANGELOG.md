@@ -1,4 +1,4 @@
-## v1.1.0 - 2020-10-26
+## v1.1 - 2020-10-26
 ### Changed
 - TOC version for 9.0.1
 ### Fixed
