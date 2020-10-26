@@ -1,4 +1,4 @@
-## Interface: 70200
+## Interface: 90001
 ## Title: m4x GossipSkip
 ## Notes: Skip all the Gossips
 ## Author: m4xc4v413r4
