@@ -1,3 +1,9 @@
+## v1.1.0 - 2020-10-26
+### Changed
+- TOC version for 9.0.1
+### Fixed
+- Problems introduced by changes to the API for Shadowlands
+
 ## v1.0.1 - 2017-03-28
 ### Changed
 - TOC version for 7.2
